@@ -1,4 +1,4 @@
-# build as Bioconductor/BBS-docker
+# build as bioconductor/bbs-docker
 
 # Assumes you want R-devel, if not, need to change this:
 FROM bioconductor/devel_base
