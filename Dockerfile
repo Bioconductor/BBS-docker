@@ -58,9 +58,11 @@ USER biocbuild
 
 RUN mkdir /home/biocbuild/.ssh /home/biocbuild/.BBS
 ADD id_rsa /home/biocbuild/.BBS/id_rsa
-chmod go-rwx /home/biocbuild/.BBS/id_rsa
 
 USER root
+
+RUN chmod go-rwx /home/biocbuild/.BBS/id_rsa
+
 
 ADD id_rsa.pub /home/biocbuild/.ssh/authorized_keys
 RUN chown biocbuild:biocbuild /home/biocbuild/.BBS/id_rsa /home/biocbuild/.ssh/authorized_keys
