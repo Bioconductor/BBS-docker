@@ -49,7 +49,7 @@ USER biocadmin
 
 RUN mkdir -p /home/biocadmin/bin && \
   ln -s /usr/local/bin/R /home/biocadmin/bin/R-$R_VERSION && \
-  mkdir -p /home/biocadmin/PACKAGES/$BIOC_VERISION/bioc/ && \
+  mkdir -p /home/biocadmin/PACKAGES/$BIOC_VERSION/bioc/ && \
   cd /home/biocadmin/PACKAGES/$BIOC_VERSION/bioc && \
   mkdir -p manuals src/contrib bin/windows/contrib/$R_VERSION \
     bin/macosx/contrib/3.2 bin/macosx/mavericks/contrib/$R_VERSION && cd
