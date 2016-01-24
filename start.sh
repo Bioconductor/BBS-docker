@@ -6,4 +6,4 @@ docker run -ti --rm -h dockernode \
     -w /home/biocbuild \
     --volumes-from=BBSdata \
     -e USER=biocbuild \
-    dtenenba/bbs0 
+    bioconductor/bbs-docker 
