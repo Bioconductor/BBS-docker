@@ -3,6 +3,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: OK
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
@@ -14,6 +15,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: OK
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
@@ -25,6 +27,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: OK
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
@@ -36,6 +39,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: OK
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
@@ -47,6 +51,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: Deprecated
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
@@ -58,6 +63,7 @@ Version: 1.15.0
 Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>, Willem
         Ligtenberg
 MaintainerEmail: willem.ligtenberg@openanalytics.eu
+PackageStatus: OK
 UnsupportedPlatforms: None
 NoExamplesOnPlatforms: None
 Alert: None
