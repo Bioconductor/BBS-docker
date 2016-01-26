@@ -12,4 +12,4 @@ docker run \
   -v $(pwd):/startup \
   -v $HOME/dev/github/BBS-gitsvn:/home/biocbuild/BBS \
   -v $HOME/dev/github/BBS-gitsvn/manage-BioC-repos:/home/biocadmin/manage-BioC-repos \
- busybox  /startup/runOnDataVolume.sh
+ ubuntu  /startup/runOnDataVolume.sh
